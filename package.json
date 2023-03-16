@@ -19,9 +19,9 @@
     "web-vitals": "^1.1.2"
   },
   "engines": {
-    "node": "19.1.0",
-    "npm": "8.19.3"
-  }
+    "node": "16.18.1",
+    "npm": "9.5.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
